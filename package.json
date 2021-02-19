@@ -1,6 +1,6 @@
 {
   "name": "@klw/localstorage",
-  "description": "A thin wrapper around the localStorage api ",
+  "description": "A thin wrapper around the localStorage api",
   "version": "1.0.0",
   "author": {
     "name": "Karl Ludwig Weise",
