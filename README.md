@@ -13,5 +13,5 @@ import { useLocalStorage } from "@klw/localstorage";
 
 const storage = useLocalStorage();
 storage.set("alive", true);
-storage.get("alive", true);
+storage.get("alive");
 ```
